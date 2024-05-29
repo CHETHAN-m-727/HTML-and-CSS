@@ -2,7 +2,7 @@
 
 This repository contains HTML and CSS code for a responsive web design.
 
-## Preview
+# Preview of marioclub
 
 ![Preview of the web design](marioclub/img/overView.png)
 
