@@ -4,12 +4,12 @@ This repository contains HTML and CSS code for a responsive web design.
 
 ## Preview
 
-![Preview of the web design](![image](https://github.com/CHETHAN-m-727/HTML-and-CSS/assets/118979072/d8c7f482-feff-47e2-b341-9413c5b6cf0d)
-)
+![Preview of the web design](<![image](marioclub\img\overView.png)>)
 
 ## Description
 
 The project includes the following features:
+
 - Responsive web design that adjusts to different screen sizes.
 - HTML for structuring the web content.
 - CSS for styling the web content.
@@ -19,3 +19,4 @@ The project includes the following features:
 1. Clone this repository:
    ```bash
    git clone https://github.com/CHETHAN-m-727/HTML-and-CSS.git
+   ```
