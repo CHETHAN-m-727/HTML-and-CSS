@@ -4,7 +4,7 @@ This repository contains HTML and CSS code for a responsive web design.
 
 ## Preview
 
-![Preview of the web design](<![image](marioclub\img\overView.png)>)
+![Preview of the web design](<![image]([marioclub\img\overView.png](https://github.com/CHETHAN-m-727/HTML-and-CSS/blob/main/marioclub/img/overView.png)>)
 
 ## Description
 
